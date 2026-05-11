@@ -1,15 +1,21 @@
-<p align="center">
-  <img src="sculio-logo.png" alt="Sculio" width="160" height="160">
-</p>
+# Sculio
 
-<h1 align="center">Sculio</h1>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**A browser-only visual HTML editor.**
+## 🌐 Live Site
 
-Drop in any HTML file, reskin it with one of 70 brand-grade templates — or fuse three brands at once with Mix mode — and take the styled HTML home. No platform lock-in. No build step. Everything happens in your browser.
-
-🔗 **Live site:** [editor-beta-ruby.vercel.app](https://editor-beta-ruby.vercel.app/)
+### → [**editor-beta-ruby.vercel.app**](https://editor-beta-ruby.vercel.app/)
 
 ---
 
-_The source code lives in a private repository._
+## Contact
+
+- **GitHub:** [@ArielShemesh1999](https://github.com/ArielShemesh1999)
+- **LinkedIn:** [Ariel Shemesh](https://www.linkedin.com/in/ariel-shemesh/)
+
+---
+
+© 2026 Sculio / Ariel Shemesh — All Rights Reserved.
