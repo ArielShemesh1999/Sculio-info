@@ -4,6 +4,10 @@
 
 **Live:** [editor-beta-ruby.vercel.app](https://editor-beta-ruby.vercel.app) - source is private; this repo is the write-up.
 
+<p align="center">
+  <img src="assets/preview.webp" alt="Sculio — the live site" width="100%">
+</p>
+
 ## Turning three entry doors into one editable canvas
 
 An AI builder writes semantic HTML from a prompt, a URL clone pulls a live page in with its CSS, upload takes anything else. All three land on one canvas where text, fonts, colour, position and icons are editable. 70 brand templates repaint that same markup; Mix fuses three brands into one look.
